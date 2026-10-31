@@ -10,3 +10,4 @@ Reference images plus a ready-to-paste ChatGPT prompt for planning a Lamb Chop H
 - images/face-chart-blank.png: line-art face chart traced from the selfie (blank template)
 - images/face-chart-recommended-look.png: the same chart with the recommended look drawn and labelled
 - OPUS-CRITIQUE.md: Claude Opus's second opinion on ChatGPT's three looks
+- PROMPT-REVISED.md: follow-up prompt feeding Opus's corrections back to ChatGPT (one-eye-closed chart + corrected look)
